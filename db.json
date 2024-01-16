@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "id": "bb8e",
+      "nombre": "admin",
+      "apellido": "admin",
+      "cedula": "1234",
+      "Contraseña": "1234"
+    },
+    {
+      "id": "6adc",
+      "nombre": "cris",
+      "Contraseña": "cris"
+    },
+    {
+      "id": "2ef2",
+      "nombre": "cris",
+      "Contraseña": "1234"
+    },
+    {
+      "id": "a9a0",
+      "nombre": "cris",
+      "Contraseña": "1234"
+    },
+    {
+      "id": "a70a",
+      "nombre": "cris",
+      "Contraseña": "1234"
+    },
+    {
+      "id": "eb7e",
+      "nombre": "cris",
+      "Contraseña": "1234"
+    }
+  ]
+}
